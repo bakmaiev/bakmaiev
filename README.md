@@ -21,7 +21,7 @@
 
 <br clear="both">
 <div align="center">
-  <img height="250" src="<iframe src="https://giphy.com/gifs/digg-soccer-world-cup-get-on-this-gVlgj80ZLp9yo"  />
+  <img height="250" src="<iframe src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"  />
 </div>
 
 ###
