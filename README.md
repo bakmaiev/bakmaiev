@@ -21,7 +21,7 @@
 
 <br clear="both">
 <div align="center">
-  <img height="250" src="<iframe src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"  />
 </div>
 
 ###
