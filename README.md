@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm a full stack developer from Ukraine.<br><br>🌱 I’m currently learning HTML5, CSS3, SCSS, SASS, JavaScript<br>🔭 My goal is React, Node.JS, TypeScript, Solidity<br>⚡ I'm open to new opportunities</p>
+<p align="left">I'm a full stack developer from Ukraine.<br><br>🌱 My stack is HTML5, CSS3, SCSS, SASS, JavaScript<br>🔭 My goal is React, Node.JS, TypeScript, Solidity<br>⚡ I'm open to new opportunities</p>
 
 ###
 
