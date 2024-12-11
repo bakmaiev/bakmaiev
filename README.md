@@ -18,19 +18,7 @@
 
 ###
 
-<h1 align="center">Hi, welcome to my GitHub! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm a full stack developer from Ukraine.<br><br>- 📚 My stack is HTML5, CSS3, SCSS, SASS, JavaScript, TypeScript, React, React Native, Node.js etc.<br>- 🔭 My goal is Next.js and Solidity<br>- ⚡ I'm open to new opportunities</p>
-
-###
-
-<h3 align="left">💻 Tech Stack:</h3>
+<h1 align="center">Technical Specialist | iGaming 💸🎰 </h1>
 
 ###
 
@@ -77,16 +65,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
-
-###
-
-<h3 align="left">🔭 My goal:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
-</div>
-
